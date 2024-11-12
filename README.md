@@ -1,4 +1,4 @@
-# ¡Hey!, Mi nombre es Yeury De La Cruz 👋
+# ¡Hey!, soy Yeury De La Cruz 👋
 
 ### Estudiante de Desarrollo de Software 👨‍💻
 
