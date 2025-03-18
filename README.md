@@ -4,7 +4,7 @@
 
 Soy estudiante de Desarrollo de Software en el Instituto Tecnológico de Las Américas (ITLA). Tengo experiencia trabajando con diversas tecnologías y lenguajes de programación, incluyendo:
 
-- **C# .NET**
+- **C# .NET 8+**
 - **Java**
 - **MySQL**
 - **Programación Orientada a Objetos (POO)**
