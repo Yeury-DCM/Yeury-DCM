@@ -1,14 +1,9 @@
 # ¡Hey!, soy Yeury De La Cruz 👋
 
-### Estudiante de Desarrollo de Software 👨‍💻
+### Desarrollador de Software 👨‍💻
 
-Soy estudiante de Desarrollo de Software en el Instituto Tecnológico de Las Américas (ITLA). Tengo experiencia trabajando con diversas tecnologías y lenguajes de programación, incluyendo:
+Hola, soy Yeury, un desarrollador de software especializado en desarrollo backend con .NET. Diseño y construyo sistemas escalables y de alto rendimiento aplicando los principios SOLID y patrones de arquitectura como Onion y Clean Architecture. Aplicando código limpio y las mejores prácticas, me esfuerzo por crear soluciones eficientes, mantenibles y robustas que impulsen el éxito empresarial.
 
-- **C# .NET 8+**
-- **Java**
-- **MySQL**
-- **Programación Orientada a Objetos (POO)**
-
-Uno de mis proyectos recientes ha sido un sistema de facturación TPS (Transaction Processing System), el cual podrás ver en mis repositorios. 🙌
+Con experiencia en ASP.NET Core, C#, EF Core, SQL y Onion y Clean Architecture, me enfoco en desarrollar aplicaciones bien estructuradas y optimizadas que mejoren el rendimiento y la escalabilidad. Mi objetivo es crear software que no solo satisfaga las necesidades del negocio, sino que también perdure en el tiempo gracias a bases arquitectónicas sólidas.
 
 Estoy enfocado en mejorar continuamente mis habilidades y adquirir nuevos conocimientos en el campo del desarrollo de software. 🚀
